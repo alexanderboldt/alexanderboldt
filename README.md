@@ -5,8 +5,8 @@ I am a passionate Kotlin developer and like to use modern technologies.
 ### Tech-Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Ktor](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Ktor](https://img.shields.io/badge/ktor-7F52FF.svg?style=for-the-badge&logo=ktor&logoColor=white)
-![Ktor](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-209BC4.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff)
