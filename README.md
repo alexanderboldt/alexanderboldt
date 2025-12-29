@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a passionate Kotlin developer and like to use modern technologies.
+I am a passionate Kotlin developer and like to combine it with backend frameworks like Ktor and Spring Boot to create REST service.
 
 ### Tech-Stack
 
@@ -29,5 +29,5 @@ I am a passionate Kotlin developer and like to use modern technologies.
 
 ### OS
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
