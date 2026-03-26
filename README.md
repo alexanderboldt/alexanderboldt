@@ -1,6 +1,6 @@
 ## About Me
 
-I am a passionate Kotlin backend developer focused on designing and building robust RESTful services with experience in containerized, production-oriented environments.
+I am a passionate Kotlin Backend Engineer focused on designing and building robust RESTful services with experience in containerized, production-oriented environments.
 
 ### Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
